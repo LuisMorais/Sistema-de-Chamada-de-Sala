@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">UNICID - Chamada</string>
+    <string name="txtTelaLogin">Para logar, utilize seu RA e senha</string>
+    <string name="txtRA">Informe o seu RA:</string>
+    <string name="txtSenha">Informe a sua senha: </string>
+    <string name="btnConectar">LOGAR</string>
+
+    <string name="btnDeslogar">Desconectar</string>
+    <string name="TitleAreaDoAluno">Área do Aluno</string>
+    <string name="nomeAluno">Nome: Teste</string>
+    <string name="diaAluno">Login feito ás xx:xx do xx/xx/xxxx</string>
+
+    <string name="txtTelaPrincipal">Tela Principal</string>
+    <string name="txtFechar">Fechar</string>
+    <string name="txtSegundaTela">Segunda Tela</string>
+    <string name="txtAbrir">Abrir</string>
+    <string name="txtNavegador">Abrir o Navegador</string>
+    <string name="title_activity_maps">MapsActivity</string>
+</resources>
